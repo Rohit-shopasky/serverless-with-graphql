@@ -9,8 +9,8 @@ const pubsub = new PubSub()
 const moment = require('moment');
 const common = require("./common");
 const AWS = require('aws-sdk');
-const ID = 'AKIAUH22NT7ZTSOT7VVV';
-const SECRET = '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';
+const ID = '';
+const SECRET = '';
 const BUCKET_NAME = 'shopakyimagebucket';
 const s3 = new AWS.S3({
     accessKeyId: ID,
