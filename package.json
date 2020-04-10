@@ -1,0 +1,40 @@
+{
+  "name": "shopasky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/index.js",
+  "dependencies": {
+    "apollo-server": "^2.12.0",
+    "apollo-server-express": "^2.10.1",
+    "apollo-server-lambda": "^2.12.0",
+    "aws-sdk": "^2.611.0",
+    "aws-serverless-express": "^3.3.8",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql-playground-middleware-lambda": "^1.3.9",
+    "graphql-yoga": "^1.18.3",
+    "index.js": "^0.0.3",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.9.7",
+    "mongoose-sequence": "^5.2.2",
+    "nodemon": "^2.0.2",
+    "password-hash": "^1.2.2",
+    "redis": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohit-shopasky/shopasky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohit-shopasky/shopasky/issues"
+  },
+  "homepage": "https://github.com/Rohit-shopasky/shopasky#readme"
+}
