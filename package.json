@@ -21,7 +21,7 @@
     "mongoose-sequence": "^5.2.2",
     "nodemon": "^2.0.2",
     "password-hash": "^1.2.2",
-    "redis": "^3.0.2"
+    "redis": "^3.1.1"
   },
   "devDependencies": {},
   "scripts": {
